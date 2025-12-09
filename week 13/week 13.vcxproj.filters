@@ -30,5 +30,8 @@
     <ClCompile Include="friend_list_struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2d_ppl_step.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
